@@ -1,0 +1,2035 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Proper Lite v1.0.17\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-07-18 22:05:40+0000\n"
+"Last-Translator: robbie <robbie@modernthemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:14
+#@ properlite
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Opa! Essa página não pode ser encontrada."
+
+#: 404.php:30
+#@ properlite
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que nada foi encontrado neste local. Talvez tente um dos links abaixo ou uma busca?"
+
+#: comments.php:28
+#, php-format
+#@ properlite
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35
+#: comments.php:56
+#@ properlite
+msgid "Comment navigation"
+msgstr "Navegação de comentário"
+
+#: comments.php:72
+#@ properlite
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#: content-none.php:13
+#@ properlite
+msgid "Nothing Found"
+msgstr "Nada foi encontrado"
+
+#: content-none.php:19
+#, php-format
+#@ properlite
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar o seu primeiro post? <a href=\\\"%1$s\\\">Começar aqui</a>."
+
+#: content-none.php:23
+#@ properlite
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Desculpa, mas nada comparado a seus termos de pesquisa. Por favor, tente novamente com algumas palavras-chave diferente."
+
+#: content-none.php:28
+#@ properlite
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não encontramos o que você está procurando. Talvez procurando pode ajudar."
+
+#: content-page.php:21
+#: inc/template-tags.php:126
+#@ properlite
+msgid "Edit"
+msgstr "Editar"
+
+#: content-page.php:14
+#: content-single.php:18
+#@ properlite
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: footer.php:88
+#, php-format
+#@ properlite
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: functions.php:57
+#@ properlite
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:95
+#@ properlite
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: header.php:21
+#@ properlite
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: header.php:69
+#: inc/customizer.php:116
+#@ properlite
+msgid "Menu"
+msgstr "Menu de"
+
+#: inc/customizer.php:147
+#@ properlite
+msgid "Navigation Link Color"
+msgstr "Cor do Link de navegação"
+
+#: inc/customizer.php:159
+#@ properlite
+msgid "Navigation Link Hover Color"
+msgstr "Cor de Hover do Link de navegação"
+
+#: inc/customizer.php:197
+#@ properlite
+msgid "Logo and Icons"
+msgstr "Logotipo e ícones"
+
+#: inc/customizer.php:199
+#@ properlite
+msgid "Upload a logo to replace the default site name and description in the header. Also, upload your site favicon and Apple Icons."
+msgstr "Fazer upload de um logotipo para substituir o nome do site padrão e a descrição no cabeçalho. Além disso, carregar seu favicon site e ícones da Apple."
+
+#: inc/customizer.php:244
+#@ properlite
+msgid "Upload your favicon (16x16 pixels)"
+msgstr "Carregar seu favicon (16 x 16 pixels)"
+
+#: inc/customizer.php:264
+#@ properlite
+msgid "Upload your Apple Touch Icon (144x144 pixels)"
+msgstr "Carregar seu ícone Touch Apple (144 x 144 pixels)"
+
+#: inc/customizer.php:284
+#@ properlite
+msgid "Upload your Apple Touch Icon (114x114 pixels)"
+msgstr "Carregar seu ícone Touch Apple (114 x 114 pixels)"
+
+#: inc/customizer.php:304
+#@ properlite
+msgid "Upload your Apple Touch Icon (72x72 pixels)"
+msgstr "Carregar seu ícone Touch Apple (72 x 72 pixels)"
+
+#: inc/customizer.php:324
+#@ properlite
+msgid "Upload your Apple Touch Icon (57x57 pixels)"
+msgstr "Carregar seu ícone Touch Apple (57 x 57 pixels)"
+
+#: inc/customizer.php:340
+#@ properlite
+msgid "Home Hero Section"
+msgstr "Seção de herói da casa"
+
+#: inc/customizer.php:422
+#@ properlite
+msgid "Hero Button URL"
+msgstr "URL do botão de herói"
+
+#: inc/customizer.php:878
+#@ properlite
+msgid "Footer Options"
+msgstr "Opções de rodapé"
+
+#: inc/customizer.php:879
+#@ properlite
+msgid "Edit your footer options"
+msgstr "Editar as opções de rodapé"
+
+#: inc/customizer.php:993
+#@ properlite
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/customizer.php:995
+#@ properlite
+msgid "Customize your footer area"
+msgstr "Personalizar sua área de rodapé"
+
+#: inc/customizer.php:1050
+#@ properlite
+msgid "Footer Byline Text"
+msgstr "Texto de rodapé Byline"
+
+#: inc/customizer.php:1075
+#@ properlite
+msgid "Footer Background Color"
+msgstr "Cor de fundo do rodapé"
+
+#: inc/customizer.php:1087
+#@ properlite
+msgid "Footer Text Color"
+msgstr "Cor do texto de rodapé"
+
+#: inc/customizer.php:1111
+#@ properlite
+msgid "Footer Link Color"
+msgstr "Cor de Link do rodapé"
+
+#: inc/customizer.php:1163
+#@ properlite
+msgid "Social Media Icons"
+msgstr "Ícones de mídias sociais"
+
+#: inc/customizer.php:1218
+#@ properlite
+msgid "Social Icon Color"
+msgstr "Cor do ícone social"
+
+#: inc/customizer.php:1230
+#@ properlite
+msgid "Social Icon Hover Color"
+msgstr "Cor de Hover ícone social"
+
+#: widgets/widget-mt-social.php:74
+#@ properlite
+msgid "Facebook URL:"
+msgstr "URL do Facebook:"
+
+#: widgets/widget-mt-social.php:84
+#@ properlite
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+#: widgets/widget-mt-social.php:94
+#@ properlite
+msgid "LinkedIn URL:"
+msgstr "URL do LinkedIn:"
+
+#: widgets/widget-mt-social.php:114
+#@ properlite
+msgid "Instagram URL:"
+msgstr "URL do Instagram:"
+
+#: widgets/widget-mt-social.php:124
+#@ properlite
+msgid "Flickr URL:"
+msgstr "Flickr URL:"
+
+#: widgets/widget-mt-social.php:134
+#@ properlite
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+#: widgets/widget-mt-social.php:154
+#@ properlite
+msgid "Vimeo URL:"
+msgstr "URL do Vimeo:"
+
+#: widgets/widget-mt-social.php:164
+#@ properlite
+msgid "Tumblr URL:"
+msgstr "URL do Tumblr:"
+
+#: widgets/widget-mt-social.php:174
+#@ properlite
+msgid "Dribbble URL:"
+msgstr "Dribbble URL:"
+
+#: widgets/widget-mt-social.php:184
+#@ properlite
+msgid "RSS URL:"
+msgstr "URL DO RSS:"
+
+#: inc/customizer.php:545
+#: inc/customizer.php:674
+#: inc/customizer.php:805
+#: inc/customizer.php:908
+#: inc/customizer.php:1247
+#: inc/customizer.php:1720
+#@ properlite
+msgid "Text Color"
+msgstr "Cor do texto"
+
+#: inc/customizer.php:569
+#: inc/customizer.php:699
+#: inc/customizer.php:830
+#: inc/customizer.php:932
+#: inc/customizer.php:1259
+#: inc/customizer.php:1835
+#@ properlite
+msgid "Link Color"
+msgstr "Cor do link"
+
+#: inc/customizer.php:1271
+#: inc/customizer.php:1847
+#@ properlite
+msgid "Hover Color"
+msgstr "Cor de hover"
+
+#: inc/customizer.php:1283
+#@ properlite
+msgid "Site Title Color"
+msgstr "Cor do título de site"
+
+#: inc/customizer.php:1317
+#@ properlite
+msgid "Entry Title Color"
+msgstr "Cor do título de entrada"
+
+#: inc/customizer.php:1528
+#@ properlite
+msgid "Check this box if you want to disable the animations."
+msgstr "Marque esta caixa se você quiser desabilitar as animações."
+
+#: inc/extras.php:52
+#, php-format
+#@ properlite
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/template-tags.php:23
+#@ properlite
+msgid "Posts navigation"
+msgstr "Navegação de Posts"
+
+#: inc/template-tags.php:56
+#@ properlite
+msgid "Post navigation"
+msgstr "Navegação de post"
+
+#: inc/template-tags.php:86
+#, php-format
+#@ properlite
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Postado em %s"
+
+#: inc/template-tags.php:91
+#, php-format
+#@ properlite
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108
+#: inc/template-tags.php:114
+#@ properlite
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:110
+#, php-format
+#@ properlite
+msgid "Posted in %1$s"
+msgstr "Postado em %1$s"
+
+#: inc/template-tags.php:116
+#, php-format
+#@ properlite
+msgid "Tagged %1$s"
+msgstr "Marcados %1$s"
+
+#: inc/template-tags.php:122
+#@ properlite
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+#: inc/template-tags.php:122
+#@ properlite
+msgid "1 Comment"
+msgstr "1 comentário"
+
+#: inc/template-tags.php:122
+#@ properlite
+msgid "% Comments"
+msgstr "Comentários %"
+
+#: inc/template-tags.php:143
+#, php-format
+#@ properlite
+msgid "Category: %s"
+msgstr "Categoria: %s"
+
+#: inc/template-tags.php:145
+#, php-format
+#@ properlite
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:147
+#, php-format
+#@ properlite
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:149
+#, php-format
+#@ properlite
+msgid "Year: %s"
+msgstr "Ano: %s"
+
+#: inc/template-tags.php:149
+#@ properlite
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:151
+#, php-format
+#@ properlite
+msgid "Month: %s"
+msgstr "Mês: %s"
+
+#: inc/template-tags.php:151
+#@ properlite
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:153
+#, php-format
+#@ properlite
+msgid "Day: %s"
+msgstr "Dia: %s"
+
+#: inc/template-tags.php:153
+#@ properlite
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:156
+#@ properlite
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Apartes"
+
+#: inc/template-tags.php:158
+#@ properlite
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerias"
+
+#: inc/template-tags.php:160
+#@ properlite
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imagens"
+
+#: inc/template-tags.php:162
+#@ properlite
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vídeos"
+
+#: inc/template-tags.php:164
+#@ properlite
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Cotações"
+
+#: inc/template-tags.php:166
+#@ properlite
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ligações"
+
+#: inc/template-tags.php:168
+#@ properlite
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: inc/template-tags.php:170
+#@ properlite
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Áudio"
+
+#: inc/template-tags.php:172
+#@ properlite
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Bate-papos"
+
+#: inc/template-tags.php:175
+#, php-format
+#@ properlite
+msgid "Archives: %s"
+msgstr "Arquivos: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+#, php-format
+#@ properlite
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:181
+#@ properlite
+msgid "Archives"
+msgstr "Archives"
+
+#: panel/theme-admin-page.php:35
+#@ properlite
+msgid "Documentation"
+msgstr "Documentação"
+
+#: panel/theme-admin-page.php:43
+#@ properlite
+msgid "Read Docs"
+msgstr "Leia os documentos"
+
+#: panel/theme-admin-page.php:96
+#@ properlite
+msgid "More Sidebars"
+msgstr "Mais barras laterais"
+
+#: panel/theme-admin-page.php:100
+#@ properlite
+msgid "Sometimes you need different sidebars for different pages. We got you covered, offering up to 5 different sidebars."
+msgstr "Às vezes você precisa laterais diferentes para diferentes páginas. Nós temos o, oferecendo até 5 barras laterais diferentes."
+
+#: panel/theme-admin-page.php:108
+#@ properlite
+msgid "PSD Files"
+msgstr "Arquivos PSD"
+
+#: panel/theme-admin-page.php:112
+#@ properlite
+msgid "Premium versions include PSD files. Preview your own content or showcase a customized version for your clients."
+msgstr "As versões Premium incluem arquivos PSD. Visualizar o seu próprio conteúdo ou mostrar uma versão personalizada para seus clientes."
+
+#: panel/theme-admin-page.php:116
+#@ properlite
+msgid "Free Support"
+msgstr "Suporte gratuito"
+
+#: panel/theme-admin-page.php:120
+#@ properlite
+msgid "Call on us to help you out. Premium themes come with free support that goes directly to our support staff."
+msgstr "Nos chame para ajudá-lo. Temas premium vem com suporte gratuito que vai diretamente para nossa equipe de suporte."
+
+#: panel/theme-admin-page.php:173
+#@ properlite
+msgid "Changelog"
+msgstr "Changelog"
+
+#: panel/class-tgm-plugin-activation.php:305
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:306
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:307
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:308
+#@ tgmpa
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:310
+#, php-format
+#@ properlite
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requer o seguinte plugin: %1$s."
+msgstr[1] "Este tema requer os seguintes plugins: %1$s."
+
+#: panel/class-tgm-plugin-activation.php:320
+#, php-format
+#@ properlite
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:325
+#, php-format
+#@ properlite
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:330
+#, php-format
+#@ properlite
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:335
+#, php-format
+#@ properlite
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:340
+#, php-format
+#@ properlite
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:345
+#, php-format
+#@ properlite
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:350
+#, php-format
+#@ properlite
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:355
+#@ properlite
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:360
+#@ properlite
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:365
+#@ properlite
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:370
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:371
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:372
+#: panel/class-tgm-plugin-activation.php:3082
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:374
+#, php-format
+#@ tgmpa
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:375
+#, php-format
+#@ tgmpa
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:376
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:377
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:378
+#@ tgmpa
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:496
+#@ tgmpa
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:497
+#@ tgmpa
+msgid "Update Required"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:614
+#@ tgmpa
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:813
+#: panel/class-tgm-plugin-activation.php:3500
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:928
+#@ tgmpa
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:928
+#: panel/class-tgm-plugin-activation.php:932
+#@ tgmpa
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:932
+#@ tgmpa
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:1117
+#: panel/class-tgm-plugin-activation.php:2898
+#@ tgmpa
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:1939
+#, php-format
+#@ tgmpa
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2220
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2223
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2240
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2244
+#@ tgmpa
+msgid "External Source"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2248
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2267
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2271
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2273
+#@ tgmpa
+msgid "Active"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2279
+#@ tgmpa
+msgid "Required Update not Available"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2282
+#@ tgmpa
+msgid "Requires Update"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2285
+#@ tgmpa
+msgid "Update recommended"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2293
+#, php-format
+#@ tgmpa
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2342
+#, php-format
+#@ tgmpa
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2346
+#, php-format
+#@ tgmpa
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2350
+#, php-format
+#@ tgmpa
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2354
+#, php-format
+#@ tgmpa
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:2447
+#@ tgmpa
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2455
+#@ tgmpa
+msgid "Installed version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2463
+#@ tgmpa
+msgid "Minimum required version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2475
+#@ tgmpa
+msgid "Available version:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2499
+#, php-format
+#@ tgmpa
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2515
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2516
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2517
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2521
+#@ tgmpa
+msgid "Version"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2522
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2558
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2564
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2570
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2641
+#@ tgmpa
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2674
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2680
+#@ tgmpa
+msgid "Update"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2683
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2715
+#@ tgmpa
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2717
+#@ tgmpa
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2753
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2755
+#@ tgmpa
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2859
+#@ tgmpa
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2884
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: panel/class-tgm-plugin-activation.php:2902
+#: panel/class-tgm-plugin-activation.php:373
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:3081
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3420
+#, php-format
+#@ tgmpa
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3424
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3425
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3429
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3430
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3430
+#: panel/class-tgm-plugin-activation.php:3437
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3430
+#: panel/class-tgm-plugin-activation.php:3437
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3431
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3432
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3436
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3437
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3438
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3439
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: widgets/contact-info.php:52
+#: widgets/video-widget.php:49
+#: widgets/widget-mt-cta.php:54
+#: widgets/widget-mt-home-news.php:58
+#@ properlite
+msgid "Title"
+msgstr "Título"
+
+#: widgets/contact-info.php:12
+#@ properlite
+msgid "Display your contact info"
+msgstr "Exibir suas informações de contato"
+
+#: widgets/contact-info.php:60
+#@ properlite
+msgid "Enter your address"
+msgstr "Digite seu endereço de"
+
+#: widgets/contact-info.php:66
+#@ properlite
+msgid "Enter your phone number"
+msgstr "Digite o seu número de telefone"
+
+#: widgets/contact-info.php:72
+#@ properlite
+msgid "Enter your email address"
+msgstr "Digite seu endereço de e-mail"
+
+#: widgets/contact-info.php:170
+#@ properlite
+msgid "Contact info"
+msgstr "Informação de contato"
+
+#: widgets/contact-info.php:194
+#@ properlite
+msgid "Address: "
+msgstr "Endereço: "
+
+#: widgets/contact-info.php:204
+#@ properlite
+msgid "Phone: "
+msgstr "Telefone: "
+
+#: widgets/contact-info.php:214
+#@ properlite
+msgid "Email: "
+msgstr "Email: "
+
+#: widgets/video-widget.php:13
+#@ properlite
+msgid "Video for your sidebar."
+msgstr "Vídeo da barra lateral."
+
+#: widgets/video-widget.php:57
+#@ properlite
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Cole a URL do vídeo (só a partir de uma rede que suporta oEmbed, como Youtube, Vimeo, etc.):"
+
+#: widgets/video-widget.php:151
+#@ properlite
+msgid "Video"
+msgstr "Vídeo"
+
+#: panel/theme-admin-page.php:130
+#@ properlite
+msgid "Premium Membership. Premium Experience."
+msgstr "Conta premium. Experiência Premium."
+
+#: panel/theme-admin-page.php:63
+#: panel/theme-admin-page.php:134
+#@ properlite
+msgid "Plugin Compatibility"
+msgstr "Compatibilidade do plugin"
+
+#: panel/theme-admin-page.php:67
+#: panel/theme-admin-page.php:138
+#@ properlite
+msgid "Use our new free plugins with this theme to add functionality for things like projects, clients, team members and more. Compatible with all premium themes!"
+msgstr "Use nossos novos plugins grátis com este tema para adicionar funcionalidade para coisas como projetos, clientes, membros da equipe e muito mais. Compatível com todos os temas premium!"
+
+#: panel/theme-admin-page.php:142
+#@ properlite
+msgid "Agency Designed Themes"
+msgstr "Agência projetado temas"
+
+#: panel/theme-admin-page.php:146
+#@ properlite
+msgid "Look as good as can be with our new premium themes. Each one is agency designed with modern styles and professional layouts."
+msgstr "Olha como pode ser com nossos novos temas premium. Cada um é desenhada com estilos modernos e layouts profissionais de agência."
+
+#: panel/theme-admin-page.php:150
+#@ properlite
+msgid "Membership Options"
+msgstr "Opções de adesão"
+
+#: panel/theme-admin-page.php:154
+#@ properlite
+msgid "We have options to fit every budget. Choose between a single theme, or access to all current and future themes for a year, or forever!"
+msgstr "Temos opções para caber cada orçamento. Escolha entre um único tema, ou o acesso a todos os actuais e o futuro temas para um ano, ou para sempre!"
+
+#: panel/theme-admin-page.php:158
+#@ properlite
+msgid "Access to New Themes"
+msgstr "Acesso a novos temas"
+
+#: panel/theme-admin-page.php:162
+#@ properlite
+msgid "New themes added monthly! When you purchase a premium membership you get access to all premium themes, with new themes added monthly."
+msgstr "Temas novos adicionados mensalmente! Quando você compra uma conta premium você tem acesso a todos os temas premium, com temas novos adicionados mensalmente."
+
+#: panel/theme-admin-page.php:167
+#@ properlite
+msgid "Get Premium Membership"
+msgstr "Obter conta Premium"
+
+#: inc/customizer.php:1407
+#@ properlite
+msgid "Body Font Size"
+msgstr "Tamanho da fonte corpo"
+
+#: inc/customizer.php:207
+#@ properlite
+msgid "Logo"
+msgstr "Logotipo"
+
+#: inc/customizer.php:496
+#: inc/customizer.php:626
+#: inc/customizer.php:757
+#@ proper
+msgid "Number of Widget Columns"
+msgstr "Número de colunas do Widget"
+
+#: inc/customizer.php:503
+#: inc/customizer.php:633
+#: inc/customizer.php:764
+#@ properlite
+msgid "1 Column"
+msgstr "1 coluna"
+
+#: inc/customizer.php:504
+#: inc/customizer.php:634
+#: inc/customizer.php:765
+#@ properlite
+msgid "2 Columns"
+msgstr "2 colunas"
+
+#: inc/customizer.php:505
+#: inc/customizer.php:635
+#: inc/customizer.php:766
+#@ properlite
+msgid "3 Columns"
+msgstr "3 colunas"
+
+#: inc/customizer.php:506
+#: inc/customizer.php:636
+#: inc/customizer.php:767
+#@ properlite
+msgid "4 Columns"
+msgstr "4 colunas"
+
+#: inc/customizer.php:1467
+#@ properlite
+msgid "Posts Page Title"
+msgstr "Título da página de mensagens"
+
+#: inc/customizer.php:1454
+#@ properlite
+msgid "Blog"
+msgstr "Blog"
+
+#: comments.php:38
+#: comments.php:59
+#@ properlite
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:39
+#: comments.php:60
+#@ properlite
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: functions.php:104
+#: inc/customizer.php:482
+#@ properlite
+msgid "Home Widget Area #1"
+msgstr "Área de Widget para casa #1"
+
+#: functions.php:106
+#: functions.php:115
+#: functions.php:124
+#@ properlite
+msgid "Use this widget area to display home page content"
+msgstr "Use esta área do widget para exibir o conteúdo da página home"
+
+#: functions.php:113
+#: inc/customizer.php:613
+#@ properlite
+msgid "Home Widget Area #2"
+msgstr "Área de Widget para casa #2"
+
+#: functions.php:122
+#: inc/customizer.php:744
+#@ properlite
+msgid "Home Widget Area #3"
+msgstr "Área de Widget para casa #3"
+
+#: functions.php:131
+#@ properlite
+msgid "Social Widget Area"
+msgstr "Área social Widget"
+
+#: functions.php:133
+#@ properlite
+msgid "Drag the MT - Social Icons widget here."
+msgstr "Arraste o MT - widget ícones Social aqui."
+
+#: functions.php:140
+#: inc/customizer.php:884
+#@ properlite
+msgid "Footer Call-to-Action"
+msgstr "Rodapé chamada à ação"
+
+#: functions.php:142
+#@ properlite
+msgid "Use this widget area to populate your Footer Call-to-Action"
+msgstr "Use esta área do widget para preencher seu rodapé chamada à ação"
+
+#: inc/customizer.php:27
+#@ properlite
+msgid "General Colors"
+msgstr "Geral-cores"
+
+#: inc/customizer.php:28
+#@ properlite
+msgid "Edit your general color settings."
+msgstr "Edite suas configurações de cor geral."
+
+#: inc/customizer.php:36
+#@ properlite
+msgid "Navigation"
+msgstr "Navegação"
+
+#: inc/customizer.php:37
+#@ properlite
+msgid "Edit your theme navigation settings."
+msgstr "Edite as configurações de navegação do tema."
+
+#: inc/customizer.php:42
+#@ properlite
+msgid "Navigation Settings"
+msgstr "Configurações de navegação"
+
+#: inc/customizer.php:49
+#@ properlite
+msgid "Theme Colors"
+msgstr "Cores do tema"
+
+#: inc/customizer.php:78
+#@ properlite
+msgid "Proper Premium"
+msgstr "Adequada Premium"
+
+#: inc/customizer.php:80
+#@ properlite
+msgid "Need some more Proper? If you want to see what additional features <a href=\"http://modernthemes.net/premium-wordpress-themes/proper/\" target=\"_blank\">Proper Premium</a> has, check them all out right <a href=\"http://modernthemes.net/premium-wordpress-themes/proper/\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/customizer.php:111
+#@ properlite
+msgid "Menu Toggle Display"
+msgstr "Exibição de menu Toggle"
+
+#: inc/customizer.php:115
+#@ properlite
+msgid "Icon"
+msgstr "Ícone de"
+
+#: inc/customizer.php:117
+#@ properlite
+msgid "Icon and Menu"
+msgstr "Ícone e Menu"
+
+#: inc/customizer.php:123
+#@ properlite
+msgid "Navigation Colors"
+msgstr "Cores de navegação"
+
+#: inc/customizer.php:125
+#@ properlite
+msgid "Set your theme navigation colors."
+msgstr "Defina seu tema de cores de navegação."
+
+#: inc/customizer.php:135
+#@ properlite
+msgid "Navigation Background Color"
+msgstr "Cor de fundo de navegação"
+
+#: inc/customizer.php:171
+#@ properlite
+msgid "Navigation Button"
+msgstr "Botão de navegação"
+
+#: inc/customizer.php:183
+#@ properlite
+msgid "Navigation Button Hover"
+msgstr "Hover do botão de navegação"
+
+#: inc/customizer.php:221
+#@ properlite
+msgid "Logo Size"
+msgstr "Tamanho do logotipo"
+
+#: inc/customizer.php:222
+#: inc/customizer.php:1019
+#@ properlite
+msgid "Change the width of the Logo in PX. Only enter numeric value."
+msgstr "Altere a largura do logotipo no PX. Apenas digite o valor numérico."
+
+#: inc/customizer.php:341
+#: inc/customizer.php:477
+#@ properlite
+msgid "Edit your home page settings"
+msgstr "Editar suas configurações de página inicial"
+
+#: inc/customizer.php:346
+#@ properlite
+msgid "Home Hero Options"
+msgstr "Opções de herói da casa"
+
+#: inc/customizer.php:348
+#@ properlite
+msgid "Edit the options for the home page Hero section."
+msgstr "Edite as opções para a home page de seção de herói."
+
+#: inc/customizer.php:357
+#@ properlite
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: inc/customizer.php:370
+#: inc/customizer.php:533
+#: inc/customizer.php:662
+#: inc/customizer.php:793
+#: inc/customizer.php:896
+#: inc/customizer.php:1868
+#@ properlite
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: inc/customizer.php:383
+#@ properlite
+msgid "Title Text"
+msgstr "Texto de título"
+
+#: inc/customizer.php:395
+#: inc/customizer.php:1880
+#@ properlite
+msgid "Title Color"
+msgstr "Cor do título"
+
+#: inc/customizer.php:408
+#@ properlite
+msgid "Button Text"
+msgstr "Texto do botão"
+
+#: inc/customizer.php:436
+#: inc/customizer.php:1916
+#@ properlite
+msgid "Button Text Color"
+msgstr "Cor do texto de botão"
+
+#: inc/customizer.php:448
+#@ properlite
+msgid "Button Background Color"
+msgstr "Cor de fundo do botão"
+
+#: inc/customizer.php:460
+#: inc/customizer.php:605
+#: inc/customizer.php:736
+#: inc/customizer.php:866
+#: inc/customizer.php:980
+#: inc/customizer.php:1147
+#: inc/customizer.php:1341
+#: inc/customizer.php:1928
+#@ properlite
+msgid "Button Hover Color"
+msgstr "Cor do botão Hover"
+
+#: inc/customizer.php:476
+#@ properlite
+msgid "Home Page Options"
+msgstr "Opções de página inicial"
+
+#: inc/customizer.php:484
+#@ properlite
+msgid "Edit the options for the first home page widget area."
+msgstr "Edite as opções para a primeira área de widget de página inicial."
+
+#: inc/customizer.php:497
+#: inc/customizer.php:627
+#: inc/customizer.php:758
+#@ properlite
+msgid "1 Column will take up the entire widget area, while 4 columns will give space to use 4 widgets for content in one row. Recommended: Set to 1 Column if you are using ModernThemes plugin widgets."
+msgstr "1 coluna vai ocupar a área inteira do widget, enquanto 4 colunas dará espaço a utilizar 4 widgets para conteúdo em uma linha. Recomendado: Definido como 1 coluna, se você estiver usando widgets do plugin ModernThemes."
+
+#: inc/customizer.php:522
+#@ properlite
+msgid "Hide Home Widget Area #1"
+msgstr "Casa de ocultar Widget área #1"
+
+#: inc/customizer.php:557
+#: inc/customizer.php:687
+#: inc/customizer.php:818
+#: inc/customizer.php:920
+#@ properlite
+msgid "Heading Color"
+msgstr "Cor do título"
+
+#: inc/customizer.php:581
+#: inc/customizer.php:711
+#: inc/customizer.php:842
+#: inc/customizer.php:944
+#@ properlite
+msgid "Link Hover Color"
+msgstr "Cor do link Hover"
+
+#: inc/customizer.php:593
+#: inc/customizer.php:724
+#: inc/customizer.php:854
+#: inc/customizer.php:968
+#: inc/customizer.php:1135
+#: inc/customizer.php:1329
+#: inc/customizer.php:1904
+#@ properlite
+msgid "Button Color"
+msgstr "Cor do botão"
+
+#: inc/customizer.php:615
+#@ properlite
+msgid "Edit the options for the second home page widget area."
+msgstr "Edite as opções para a segunda área de widget de página inicial."
+
+#: inc/customizer.php:651
+#@ properlite
+msgid "Hide Home Widget Area #2"
+msgstr "Casa de ocultar Widget Área #2"
+
+#: inc/customizer.php:746
+#@ properlite
+msgid "Edit the options for the third home page widget area."
+msgstr "Edite as opções para a terceira área de widget de página inicial."
+
+#: inc/customizer.php:782
+#@ properlite
+msgid "Hide Home Widget Area #3"
+msgstr "Casa de ocultar Widget Área #3"
+
+#: inc/customizer.php:886
+#@ properlite
+msgid "Customize your footer call-to-action area"
+msgstr "Personalizar sua área de plano de ação do rodapé"
+
+#: inc/customizer.php:956
+#@ properlite
+msgid "Border Color"
+msgstr "Cor da borda"
+
+#: inc/customizer.php:1004
+#@ properlite
+msgid "Footer Logo"
+msgstr "Logótipo de rodapé"
+
+#: inc/customizer.php:1018
+#@ properlite
+msgid "Footer Logo Size"
+msgstr "Tamanho do logotipo de rodapé"
+
+#: inc/customizer.php:1037
+#@ properlite
+msgid "Footer Text"
+msgstr "Texto de rodapé"
+
+#: inc/customizer.php:1064
+#@ properlite
+msgid "Hide Footer Byline"
+msgstr "Esconder rodapé Byline"
+
+#: inc/customizer.php:1099
+#@ properlite
+msgid "Footer Heading Color"
+msgstr "Cor do cabeçalho rodapé"
+
+#: inc/customizer.php:1123
+#@ properlite
+msgid "Footer Link Hover Color"
+msgstr "Cor do rodapé Link Hover"
+
+#: inc/customizer.php:1164
+#@ properlite
+msgid "Edit your social media icons"
+msgstr "Editar seus ícones de mídias sociais"
+
+#: inc/customizer.php:1169
+#@ properlite
+msgid "Social Media Settings"
+msgstr "Configurações de mídia social"
+
+#: inc/customizer.php:1184
+#@ properlite
+msgid "Hide Social Media Icons"
+msgstr "Ocultar ícones de mídias sociais"
+
+#: inc/customizer.php:1202
+#@ properlite
+msgid "Social Icon Size"
+msgstr "Tamanho do ícone social"
+
+#: inc/customizer.php:1293
+#@ properlite
+msgid "Page Colors"
+msgstr "Cores da página"
+
+#: inc/customizer.php:1295
+#@ properlite
+msgid "Set your page colors."
+msgstr "Defina as cores da página."
+
+#: inc/customizer.php:1305
+#@ properlite
+msgid "Page Header Background Color"
+msgstr "Cor de fundo do cabeçalho da página"
+
+#: inc/customizer.php:1355
+#@ properlite
+msgid "Fonts"
+msgstr "Fontes"
+
+#: inc/customizer.php:1427
+#@ properlite
+msgid "Select your desired font for the headings. Playfair Display is the default Heading font."
+msgstr "Selecione a fonte desejada para os títulos. Display de Playfair é a fonte de cabeçalho padrão."
+
+#: inc/customizer.php:1443
+#@ properlite
+msgid "Select your desired font for the body. Source Sans Pro is the default Body font."
+msgstr "Selecione a fonte desejada para o corpo. Fonte Sans Pro é a fonte padrão do corpo."
+
+#: inc/customizer.php:1479
+#@ properlite
+msgid "Blog Header Background Image"
+msgstr "Imagem de fundo do cabeçalho do blog"
+
+#: inc/customizer.php:1492
+#@ properlite
+msgid "Blog Archive Hover Background"
+msgstr "Blog Archive Hover fundo"
+
+#: inc/customizer.php:1504
+#@ properlite
+msgid "Blog Archive Border Color"
+msgstr "Cor da borda Blog Archive"
+
+#: inc/customizer.php:1512
+#@ properlite
+msgid "Animation Effects"
+msgstr "Efeitos de animação"
+
+#: inc/customizer.php:1514
+#@ properlite
+msgid "Get yourself animated or disable it."
+msgstr "Obter-se animados ou desativá-lo."
+
+#: inc/customizer.php:1543
+#@ properlite
+msgid "ModernThemes Plugin Options"
+msgstr "Opções do ModernThemes Plugin"
+
+#: inc/customizer.php:1544
+#@ properlite
+msgid "If you have installed any of our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific options. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1550
+#@ properlite
+msgid "Services"
+msgstr "Serviços"
+
+#: inc/customizer.php:1552
+#@ properlite
+msgid "If you have installed the Services plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1563
+#@ properlite
+msgid "Service Icon"
+msgstr "Ícone de serviço"
+
+#: inc/customizer.php:1575
+#@ properlite
+msgid "Service Icon Background"
+msgstr "Fundo do ícone de serviço"
+
+#: inc/customizer.php:1587
+#@ properlite
+msgid "Service Icon Border"
+msgstr "Fronteira de ícone de serviço"
+
+#: inc/customizer.php:1595
+#@ properlite
+msgid "Projects"
+msgstr "Projetos"
+
+#: inc/customizer.php:1597
+#@ properlite
+msgid "If you have installed the Projects plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1607
+#@ properlite
+msgid "Hover Background"
+msgstr "Fundo de foco"
+
+#: inc/customizer.php:1619
+#@ properlite
+msgid "Hover Text"
+msgstr "Foco do texto"
+
+#: inc/customizer.php:1627
+#@ properlite
+msgid "Team Members"
+msgstr "Membros da equipe"
+
+#: inc/customizer.php:1629
+#@ properlite
+msgid "If you have installed the Team Members plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1639
+#@ properlite
+msgid "Team Member Icon Color"
+msgstr "Equipe membro ícone cor"
+
+#: inc/customizer.php:1651
+#@ properlite
+msgid "Team Member Icon Border"
+msgstr "Fronteira de ícone de membro de equipe"
+
+#: inc/customizer.php:1663
+#@ properlite
+msgid "Team Member Icon Hover"
+msgstr "Equipe membro ícone Hover"
+
+#: inc/customizer.php:1675
+#@ properlite
+msgid "Team Member Icon Background Hover"
+msgstr "Equipe membro ícone fundo Hover"
+
+#: inc/customizer.php:1687
+#@ properlite
+msgid "Team Member Divider"
+msgstr "Divisor de membro de equipe"
+
+#: inc/customizer.php:1696
+#@ properlite
+msgid "Testimonials"
+msgstr "Depoimentos"
+
+#: inc/customizer.php:1698
+#@ properlite
+msgid "If you have installed the Testimonials plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1708
+#@ properlite
+msgid "Content Background"
+msgstr "Fundo de conteúdo"
+
+#: inc/customizer.php:1733
+#@ properlite
+msgid "Font Style"
+msgstr "Estilo da fonte"
+
+#: inc/customizer.php:1746
+#@ properlite
+msgid "Skill Bars"
+msgstr "Barras de Skill"
+
+#: inc/customizer.php:1748
+#@ properlite
+msgid "If you have installed the Skill Bars plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1758
+#@ properlite
+msgid "Skill Bar Color"
+msgstr "Cor de barra de habilidade"
+
+#: inc/customizer.php:1770
+#@ properlite
+msgid "Skill Bar Background"
+msgstr "Fundo habilidade Bar"
+
+#: inc/customizer.php:1778
+#@ properlite
+msgid "Details"
+msgstr "Detalhes"
+
+#: inc/customizer.php:1780
+#@ properlite
+msgid "If you have installed the Details Odometer plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1790
+#: inc/customizer.php:1823
+#@ properlite
+msgid "Icon Color"
+msgstr "Cor do ícone"
+
+#: inc/customizer.php:1802
+#@ properlite
+msgid "Number Color"
+msgstr "Número de cores"
+
+#: inc/customizer.php:1811
+#@ properlite
+msgid "Home Page Columns"
+msgstr "Página inicial colunas"
+
+#: inc/customizer.php:1813
+#@ properlite
+msgid "If you have installed the Home Page Columns plugin from our <a href=\"http://modernthemes.net/plugins/\">ModernThemes content plugins</a>, use this section to edit theme-specific colors. Our plugins are styled different from theme to theme, so you can use this area to customize the content to match your theme."
+msgstr ""
+
+#: inc/customizer.php:1856
+#@ properlite
+msgid "Home Posts"
+msgstr "Posts em casa"
+
+#: inc/customizer.php:1858
+#@ properlite
+msgid "Edit your MT - Home Posts options"
+msgstr "Edite seu MT - opções Home Posts"
+
+#: inc/customizer.php:1892
+#@ properlite
+msgid "Date Color"
+msgstr "Cor de data"
+
+#: inc/customizer.php:1941
+#@ properlite
+msgid "Text Align"
+msgstr "Alinhar o texto"
+
+#: inc/template-tags.php:27
+#@ properlite
+msgid "Older posts"
+msgstr "Posts mais antigos"
+
+#: inc/template-tags.php:31
+#@ properlite
+msgid "Newer posts"
+msgstr "Posts mais recentes"
+
+#: index.php:20
+#@ properlite
+msgid "Our Latest News"
+msgstr "Nossas últimas notícias"
+
+#: panel/class-tgm-plugin-activation.php:315
+#, php-format
+#@ properlite
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/theme-admin-page.php:14
+#@ properlite
+msgid "Proper Lite Theme Details"
+msgstr "Detalhes do tema Lite adequada"
+
+#: panel/theme-admin-page.php:19
+#@ properlite
+msgid "Thank you for using Proper Lite!"
+msgstr "Obrigado por usar adequada Lite!"
+
+#: panel/theme-admin-page.php:23
+#@ properlite
+msgid "Premium Plugins"
+msgstr "Plugins de prémio"
+
+#: panel/theme-admin-page.php:27
+#@ properlite
+msgid "Want to add more functionality to your theme? Use ModernThemes Premium Plugins to add content to your widget areas and pages."
+msgstr "Deseja adicionar mais funcionalidade a seu tema? Use o ModernThemes Premium Plugins para adicionar conteúdo ao seu widget áreas e páginas."
+
+#: panel/theme-admin-page.php:31
+#@ properlite
+msgid "Get Plugins"
+msgstr "Obter Plugins"
+
+#: panel/theme-admin-page.php:39
+#@ properlite
+msgid "Check out our Proper Documentation to learn how to use Proper and for tutorials on theme functions. "
+msgstr "Verificar para fora nossa documentação adequada para aprender a usar o próprio e para tutoriais sobre funções do tema. "
+
+#: panel/theme-admin-page.php:47
+#@ properlite
+msgid "ModernThemes"
+msgstr "ModernThemes"
+
+#: panel/theme-admin-page.php:51
+#@ properlite
+msgid "Need some more themes? We have a large selection of both free and premium themes to add to your collection."
+msgstr "Preciso de mais alguns temas? Temos uma grande seleção de temas livres e superiores para adicionar à sua coleção."
+
+#: panel/theme-admin-page.php:55
+#@ properlite
+msgid "Visit Us"
+msgstr "Visite-nos"
+
+#: panel/theme-admin-page.php:59
+#@ properlite
+msgid "Get the Premium Experience."
+msgstr "Obter a experiência Premium."
+
+#: panel/theme-admin-page.php:71
+#@ properlite
+msgid "More Home Sections"
+msgstr "Mais seções casa"
+
+#: panel/theme-admin-page.php:75
+#@ properlite
+msgid "Add more plugin content to your home page with Proper Premium as we offer 2 additional home widget areas to work with. More room for more information."
+msgstr "Adicione mais conteúdo plugin para sua home page com Premium adequada como oferecemos 2 áreas adicionais widget para casa para trabalhar com. Mais espaço para obter mais informações."
+
+#: panel/theme-admin-page.php:79
+#@ properlite
+msgid "Sliders + Video"
+msgstr "Controles deslizantes + vídeo"
+
+#: panel/theme-admin-page.php:83
+#@ properlite
+msgid "Make your brand more modern with sliders or fullscreen video on your home page. The best looking websites give the best first impressions."
+msgstr "Faça sua marca mais moderna com controles deslizantes ou fullscreen vídeo na sua página inicial. Os melhores sites dão a melhor primeira impressão."
+
+#: panel/theme-admin-page.php:87
+#@ properlite
+msgid "Footer Widget Areas"
+msgstr "Áreas de Widget de rodapé"
+
+#: panel/theme-admin-page.php:91
+#@ properlite
+msgid "Want more content for your footer? Proper Premium has footer widget areas to populate with any content you want."
+msgstr "Quer mais conteúdo para o seu rodapé? Adequada Premium tem áreas de widget de rodapé para preencher com qualquer conteúdo que você quer."
+
+#: panel/theme-admin-page.php:104
+#@ properlite
+msgid "Access an additional 65 Google fonts with Proper right in the WordPress customizer."
+msgstr "Acesse uma fontes adicionais de Google 65 com adequada mesmo no personalizador do WordPress."
+
+#: panel/theme-admin-page.php:124
+#@ properlite
+msgid "View Premium Version"
+msgstr "Ver versão Premium"
+
+#: panel/theme-admin-page.php:177
+#@ properlite
+msgid "1.0.0 - New Theme!"
+msgstr ""
+
+#: search.php:14
+#, php-format
+#@ properlite
+msgid "Search Results for: %s"
+msgstr "Resultados de busca para: %s"
+
+#: widgets/contact-info.php:14
+#@ properlite
+msgid "MT - Contact Info Widget"
+msgstr "MT - informação de contato Widget"
+
+#: widgets/video-widget.php:15
+#@ properlite
+msgid "MT - Video Widget"
+msgstr "MT - vídeo Widget"
+
+#: widgets/widget-mt-cta.php:13
+#@ properlite
+msgid "Create a call-to-action for a home page widget area."
+msgstr "Crie um plano de ação para uma área de widget de página inicial."
+
+#: widgets/widget-mt-cta.php:15
+#@ properlite
+msgid "MT - Call-to-Action"
+msgstr "MT - plano de ação"
+
+#: widgets/widget-mt-cta.php:64
+#@ properlite
+msgid "Enter your call to action."
+msgstr "Insira o seu apelo à acção."
+
+#: widgets/widget-mt-cta.php:74
+#@ properlite
+msgid "Link for the button"
+msgstr "Link para o botão"
+
+#: widgets/widget-mt-cta.php:84
+#@ properlite
+msgid "Title for the button"
+msgstr "Título para o botão"
+
+#: widgets/widget-mt-home-news.php:13
+#@ properlite
+msgid "Show your blog posts on your home page."
+msgstr "Mostre suas postagens no blog em sua home page."
+
+#: widgets/widget-mt-home-news.php:15
+#@ properlite
+msgid "MT - Home Posts"
+msgstr "MT - Posts em casa"
+
+#: widgets/widget-mt-home-news.php:41
+#: widgets/widget-mt-home-news.php:198
+#@ properlite
+msgid "View More"
+msgstr "Ver mais"
+
+#: widgets/widget-mt-home-news.php:49
+#: widgets/widget-mt-home-news.php:214
+#@ properlite
+msgid "See All"
+msgstr "Ver todos"
+
+#: widgets/widget-mt-home-news.php:67
+#@ properlite
+msgid "View More Text"
+msgstr "Ver mais texto"
+
+#: widgets/widget-mt-home-news.php:75
+#@ properlite
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Insira o slug para sua categoria ou deixe em branco para mostrar mensagens de todas as categorias."
+
+#: widgets/widget-mt-home-news.php:81
+#@ properlite
+msgid "Enter the number of posts to display."
+msgstr "Digite o número de mensagens para exibir."
+
+#: widgets/widget-mt-home-news.php:86
+#@ properlite
+msgid "Enter the number of columns."
+msgstr "Digite o número de colunas."
+
+#: widgets/widget-mt-home-news.php:92
+#@ properlite
+msgid "Button Text. Default is set to <em>See All</em>."
+msgstr "Texto do botão. Padrão é definido para <em>Ver todas</em>."
+
+#: widgets/widget-mt-social.php:11
+#@ properlite
+msgid "Drag this widget to the Social Widget Area."
+msgstr "Arraste este widget para a área Social do Widget."
+
+#: widgets/widget-mt-social.php:13
+#@ properlite
+msgid "MT - Social Icons"
+msgstr "MT - ícones Social"
+
+#: widgets/widget-mt-social.php:104
+#@ properlite
+msgid "Google URL:"
+msgstr "URL do Google:"
+
+#: widgets/widget-mt-social.php:144
+#@ properlite
+msgid "Youtube URL:"
+msgstr "URL do YouTube:"
+

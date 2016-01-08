@@ -1,0 +1,35 @@
+/*!
+ *  Custom Fonts
+ */
+/* FONT PATH
+ * -------------------------- */
+
+@font-face {
+  font-family: 'Gotham-regular';
+  src: url('../fonts/Gotham-Medium.eot') format('embedded-opentype'),
+       url('../fonts/Gotham-Medium.woff') format('woff'),
+       url('../fonts/Gotham-Medium.ttf') format('truetype'),
+       url('../fonts/Gotham-Medium.svg#svgFontName') format('svg');       
+}
+
+@font-face {
+  font-family: 'Gotham-light';
+  src: url('../fonts/Gotham-Light.eot') format('embedded-opentype'),
+       url('../fonts/Gotham-Light.woff') format('woff'),
+       url('../fonts/Gotham-Light.ttf') format('truetype'),
+       url('../fonts/Gotham-Light.svg#svgFontName') format('svg');       
+
+@font-face {
+  font-family: 'Gotham-book';
+  src: url('../fonts/Gotham-Book.eot') format('embedded-opentype'),
+       url('../fonts/Gotham-Book.woff') format('woff'),
+       url('../fonts/Gotham-Book.ttf') format('truetype'),
+       url('../fonts/Gotham-Book.svg#svgFontName') format('svg');       
+}
+
+@font-face {
+  font-family: 'Tibere-regular';
+  src: url('../fonts/Tibere-Regular.eot') format('embedded-opentype'),
+       url('../fonts/Tibere-Regular.woff') format('afm'),
+       url('../fonts/Tibere-Regular.ttf') format('truetype'),
+       url('../fonts/Tibere-Regular.svg#svgFontName') format('svg');  

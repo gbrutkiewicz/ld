@@ -1,0 +1,128 @@
+.home-project-image-bg {
+	height: 350px;
+	display:  table;
+	width: 33.33333%;
+	float: left;
+	background-position: center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+	-o-background-size: cover; 
+	background-size: cover;
+}
+
+.home-project-image-bg span {
+	display: table-cell; 
+	vertical-align: middle;
+	padding: 10px;
+	text-align:center; 
+}
+
+.home-project-image-bg span h5 { 
+	margin: 0;
+	color: #fff;
+	display: inline-block;
+	padding: 10px 25px;
+	border: 5px solid #fff;
+} 
+
+.project-box {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    background-color: #151515;
+	-webkit-transition: opacity 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
+	-moz-transition: opacity 0.5s ease 0s, -moz-transform 0.5s ease 0s;
+	-ms-transition: opacity 0.5s ease 0s, -ms-transform 0.5s ease 0s;
+  	-o-transition: opacity 0.5s ease 0s, -o-transform 0.5s ease 0s;
+	transition: opacity 0.5s ease 0s, transform 0.5s ease 0s;
+}
+
+.project-box:before {
+    content: "";
+    display: block;
+    padding-top: 100%;
+}
+
+.project-content {
+    position:  absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    color: white;
+}
+
+.project-bg { 
+    position:  absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+    -webkit-opacity: 1;
+	opacity: 1;
+	background-position: center center;
+	-webkit-transition: opacity 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
+	-moz-transition: opacity 0.5s ease 0s, -moz-transform 0.5s ease 0s;
+	-ms-transition: opacity 0.5s ease 0s, -ms-transform 0.5s ease 0s;
+  	-o-transition: opacity 0.5s ease 0s, -o-transform 0.5s ease 0s;
+	transition: opacity 0.5s ease 0s, transform 0.5s ease 0s;
+}
+
+.project-box:hover .project-bg {
+    -webkit-opacity: 0.3;
+	opacity: 0.3;
+    -webkit-transform: scale3d(1.1, 1.1, 1);
+    transform: scale3d(1.1, 1.1, 1);
+	-webkit-transition: opacity 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
+	-moz-transition: opacity 0.5s ease 0s, -moz-transform 0.5s ease 0s;
+	-ms-transition: opacity 0.5s ease 0s, -ms-transform 0.5s ease 0s;
+  	-o-transition: opacity 0.5s ease 0s, -o-transform 0.5s ease 0s; 
+	transition: opacity 0.5s ease 0s, transform 0.5s ease 0s;
+}
+
+.project-content div {
+   display: table;
+   width: 100%;
+   height: 100%;
+}
+
+.project-content span {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+	padding: 15px;
+}
+
+.project-content span h3 {
+	color:#ffffff; 
+    -webkit-opacity: 0;
+	opacity: 0;
+	margin: 1em 0;   
+	font-size: 24px;
+	line-height: 28px; 
+    -webkit-transform: scale3d(1.25, 1.25, 1);
+    transform: scale3d(1.25, 1.25, 1);
+	-webkit-transition: opacity 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
+	-moz-transition: opacity 0.5s ease 0s, -moz-transform 0.5s ease 0s;
+	-ms-transition: opacity 0.5s ease 0s, -ms-transform 0.5s ease 0s;
+  	-o-transition: opacity 0.5s ease 0s, -o-transform 0.5s ease 0s;
+	transition: opacity 0.5s ease 0s, transform 0.5s ease 0s;
+}
+
+.project-box:hover .project-content span h3 {
+	-webkit-opacity: 1;
+	opacity: 1;  
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+	-webkit-transition: opacity 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
+	-moz-transition: opacity 0.5s ease 0s, -moz-transform 0.5s ease 0s;
+	-ms-transition: opacity 0.5s ease 0s, -ms-transform 0.5s ease 0s;
+  	-o-transition: opacity 0.5s ease 0s, -o-transform 0.5s ease 0s;
+	transition: opacity 0.5s ease 0s, transform 0.5s ease 0s;
+} 

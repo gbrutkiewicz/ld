@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Projects by ModernThemes v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-08 17:58:55+0000\n"
+"Last-Translator: robbie <robbie@modernthemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: inc/mt-projects.php:17
+#@ mtprojects
+msgctxt "Post Type General Name"
+msgid "Projects"
+msgstr "Proyectos de"
+
+#: inc/mt-projects.php:18
+#@ mtprojects
+msgctxt "Post Type Singular Name"
+msgid "Project"
+msgstr "Proyecto"
+
+#: inc/mt-projects.php:19
+#@ mtprojects
+msgid "Projects"
+msgstr "Proyectos de"
+
+#: inc/mt-projects.php:20
+#@ mtprojects
+msgid "Parent Item:"
+msgstr "Artículo principal:"
+
+#: inc/mt-projects.php:21
+#@ mtprojects
+msgid "All Projects"
+msgstr "Todos los proyectos"
+
+#: inc/mt-projects.php:22
+#@ mtprojects
+msgid "View Project"
+msgstr "Ver proyecto"
+
+#: inc/mt-projects.php:23
+#@ mtprojects
+msgid "Add New Project"
+msgstr "Agregar nuevo proyecto"
+
+#: inc/mt-projects.php:24
+#@ mtprojects
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: inc/mt-projects.php:25
+#@ mtprojects
+msgid "Edit Project"
+msgstr "Editar proyecto"
+
+#: inc/mt-projects.php:26
+#@ mtprojects
+msgid "Update Project"
+msgstr "Proyecto de actualización"
+
+#: inc/mt-projects.php:27
+#@ mtprojects
+msgid "Search Projects"
+msgstr "Buscar proyectos"
+
+#: inc/mt-projects.php:28
+#@ mtprojects
+msgid "Not found"
+msgstr "No se encontró"
+
+#: inc/mt-projects.php:29
+#@ mtprojects
+msgid "Not found in Trash"
+msgstr "No se encontró en la basura"
+
+#: inc/mt-projects.php:32
+#@ mtprojects
+msgid "projects"
+msgstr "proyectos de"
+
+#: inc/mt-projects.php:33
+#@ mtprojects
+msgid "Add projects to your website."
+msgstr "Agregar proyectos a su sitio de Internet."
+
+#: inc/widget-mt-projects.php:13
+#@ mtprojects
+msgid "With this widget you can display all those projects you are proud of."
+msgstr "Con este widget puede mostrar todos los proyectos que está orgullosos de."
+
+#: inc/widget-mt-projects.php:15
+#@ mtprojects
+msgid "MT - Projects"
+msgstr "MT - proyectos"
+
+#: inc/widget-mt-projects.php:53
+#@ mtprojects
+msgid "In order to display this widget, you must first add some Projects custom post types."
+msgstr "Para mostrar este widget, primero debe agregar algunos tipos de post personalizados de proyectos."
+
+#: inc/widget-mt-projects.php:57
+#@ mtprojects
+msgid "Title"
+msgstr "Título"
+
+#: inc/widget-mt-projects.php:63
+#@ mtprojects
+msgid "Number of Projects to show (-1 shows all):"
+msgstr "Número de proyectos para mostrar (todos-1 muestra):"
+
+#: inc/widget-mt-projects.php:68
+#@ mtprojects
+msgid "Number of columns:"
+msgstr "Número de columnas:"
+
+#: inc/widget-mt-projects.php:73
+#@ mtprojects
+msgid "Enter the URL for your Projects page:"
+msgstr "Escriba la dirección URL de la página de proyectos:"
+
+#: inc/widget-mt-projects.php:77
+#@ mtprojects
+msgid "Button Text (Default is <em>See All</em>):"
+msgstr "Texto del botón (por defecto es <em>Ver todas</em>):"
+
+#: inc/widget-mt-projects.php:264
+#@ mtprojects
+msgid "See All"
+msgstr "Ver todos"
+
+#. translators: plugin header field 'Name'
+#: projects-by-mt.php:0
+#@ mtprojects
+msgid "Projects by ModernThemes"
+msgstr "Proyectos por ModernThemes"
+
+#. translators: plugin header field 'PluginURI'
+#: projects-by-mt.php:0
+#@ mtprojects
+msgid "http://modernthemes.net/plugins/projects"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: projects-by-mt.php:0
+#@ mtprojects
+msgid "This is a plugin by ModernThemes that adds Projects post types and widgets."
+msgstr "Este es un plugin de ModernThemes que agrega proyectos post tipos y widgets."
+
+#. translators: plugin header field 'Author'
+#: projects-by-mt.php:0
+#@ mtprojects
+msgid "ModernThemes"
+msgstr "ModernThemes"
+
+#. translators: plugin header field 'AuthorURI'
+#: projects-by-mt.php:0
+#@ mtprojects
+msgid "http://modernthemes.net"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: projects-by-mt.php:0
+#@ mtprojects
+msgid "1.0.0"
+msgstr ""
+
