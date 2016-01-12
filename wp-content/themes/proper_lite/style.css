@@ -908,6 +908,7 @@ a:active {
 	width: auto;
 	float: right;
 	margin-top: 20px;
+	display: none;
 }
 
 #home-hero {
@@ -1000,6 +1001,9 @@ a:active {
   clear: both;
   padding: 40px 0 0;
   text-align: center;
+}
+.home-widget-two {
+  padding: 0px 0 30px 0;
 }
 
 .work-box {
@@ -1199,14 +1203,14 @@ a:active {
 
 .footer-cta {
   border-top: 1px solid #ededed;
-  padding: 20px 0px 0px 0px;
+  padding: 20px 0px 10px 0px;
   text-align: center;
 }
 
 .site-footer {
 	text-align: center;
 	background: #040404;
-	padding-top: 5px;
+	padding-top: 25px;
 	color: #fff;
 	letter-spacing: 3px;
 }
@@ -1225,9 +1229,10 @@ a:active {
 }
 
 .footer-text {
-    padding-left: 83px;
+    //padding-left: 83px;
     line-height: 17px;
     margin-top: -16px;
+    margin-bottom: 20px
 
 }
 
@@ -1381,6 +1386,7 @@ ul.social-media-icons {
 
 .single .parallax-slider{
 	opacity:0.4;
+    -webkit-opacity: 0.4;
 }
 
 .page-entry-header div.grid {
@@ -1411,6 +1417,12 @@ ul.social-media-icons {
     right: 0;
     top: 0;
     width: 100%;
+    opacity: 0.4;
+    -webkit-opacity: 0.4;
+	-webkit-transition: opacity 1s ease 1s, -webkit-transform 1s ease 1s;
+	-moz-transition: opacity 1s ease 1s, -moz-transform 1s ease 1s;
+	-o-transition: opacity 1s ease 1s, -o-transform 1s ease 1s;
+	transition: opacity 1s ease 1s, transform 1s ease 1s; 	  
 }
 
 #archive-content-container article {
@@ -1659,6 +1671,11 @@ object {
     /* left: 0px; */
     right: 155px;
 }
+
+.site-logo{
+    padding: 0 10% 0 10%;
+}
+
 
 
 /*--------------------------------------------------------------
@@ -2491,9 +2508,21 @@ body {
 		width: 100% !important;
 		position: relative;
 	}
-	
+
+
 	.news-image {
 		height: 347px;
+	}
+
+	@media handheld, only screen and (max-width: 320px) {
+		.news-image {
+			height: 155px;
+		}
+	}
+	@media handheld, only screen and (max-width: 420px) {
+		.news-image {
+			height: 180px;
+		}
 	}
 	
 	.news-box:before {

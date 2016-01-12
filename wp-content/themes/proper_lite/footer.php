@@ -26,7 +26,7 @@
                  
        				<a  href='<?php echo esc_url( home_url( '/' ) ); ?>' title='<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>' rel='home'>
                     <!--<img class="site-left-logo" src='<?php echo esc_url( get_theme_mod( 'properlite_footer_logo_left' ) ); ?>' <?php if ( get_theme_mod( 'footer_logo_size_left' ) ) : ?>width="<?php echo esc_attr( get_theme_mod( 'footer_logo_size_left', '120' )); ?>"<?php endif; ?> alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>">-->
-                    <img class="site-left-logo" src='<?php echo esc_url( get_theme_mod( 'properlite_footer_logo_left' ) ); ?>' <?php if ( get_theme_mod( 'footer_logo_size_left' ) ) : ?>width="<?php echo esc_attr( get_theme_mod( 'footer_logo_size_left', '120' )); ?>"<?php endif; ?> alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>">
+                    <?php if ( get_theme_mod( 'footer_logo_size_left' ) ) : ?><!--<img class="site-left-logo" src='<?php echo esc_url( get_theme_mod( 'properlite_footer_logo_left' ) ); ?>' width="<?php echo esc_attr( get_theme_mod( 'footer_logo_size_left', '120' )); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>">--><?php endif; ?>
                     <img src='<?php echo esc_url( get_theme_mod( 'properlite_footer_logo' ) ); ?>' <?php if ( get_theme_mod( 'footer_logo_size' ) ) : ?>width="<?php echo esc_attr( get_theme_mod( 'footer_logo_size', '120' )); ?>"<?php endif; ?> alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>">
                     
                     </a> 

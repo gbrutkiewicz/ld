@@ -275,12 +275,13 @@ class mt_projects extends WP_Widget {
                 	<div class="project-box">
                     	<a href="<?php the_permalink(); ?>">
                     	<div class="project-content"><div><span>
-                     	<?php the_title( '<h3>', '</h3>' ); ?>  
+                     	
                          
 						<?php $image = wp_get_attachment_image_src( get_post_thumbnail_id(), 'project-thumb', array( 'class' => 'project-img' ) );
                               $image = $image[0]; ?> 
                         
                         <div class="project-bg" style="background-image: url(<?php echo esc_url( $image ); ?>);"></div>
+                        <?php the_title( '<h3>', '</h3>' ); ?>  
                         </span></div></div> 
                         </a>
                      </div>
@@ -292,7 +293,7 @@ class mt_projects extends WP_Widget {
 
 			<?php if ($see_all != '') : ?>
 				<script> var initNumber=0; </script>
-				<button onclick="javascript:seeMore(<?php echo $number; ?>,2);" class="see-more">Plus</button>	
+				<!--<button onclick="javascript:seeMore(<?php echo $number; ?>,2);" class="see-more">Plus</button>	-->
 				<!--<a href="<?php echo esc_url($see_all); ?>" class="featured-link">
 
 					<?php if ($see_all_text) : ?>
