@@ -96,7 +96,7 @@ get_header(); ?>
                         <?php } else { ?>
 
                         <nav id="nav-posts">
-                            <div class="prev"><?php next_posts_link('&laquo; Previous Posts'); ?></div>
+                            <div class="prev"><?php next_posts_link('&laquo; Inspirations prédédentes'); ?></div>
                         </nav>
 
                         <?php } ?>
