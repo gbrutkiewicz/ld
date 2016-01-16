@@ -53,7 +53,7 @@ get_header(); ?>
                         <!--<h2><a href="<?php the_permalink(); ?>" title="Read more"><?php the_title(); ?></a></h2>-->
                         <h2><a href="<?php the_permalink(); ?>" title="Read more"><?php the_title(); ?></a></h2>
                         <div class="inspiration-date"><?php the_date(); ?></div>
-
+                        <div class="inspiration-texte"><?php the_content(); ?></div>
                         <?php $attachments = new Attachments( 'attachments' ); /* pass the instance name */ ?>
                         <?php if( $attachments->exist() ) : ?>
                           
@@ -64,7 +64,7 @@ get_header(); ?>
                                     <div class="inspiration-partage">
                                         <ul class="social-media-icons">                   
                                             <li>
-                                                <a href="https://www.facebook.com/dialog/feed?%20app_id=724455497660772%20&display=popup&caption=<?php echo $titre; ?>&link=<?php echo $redirect_url;?>&redirect_uri=<?php echo $redirect_url;?>&description=<?php urlencode(the_title()); ?>&picture=<?php echo $attachments->src( 'full' ); ?>" target="_blank">
+                                                <a href="https://www.facebook.com/dialog/feed?app_id=724455497660772&display=popup&caption=<?php echo $titre; ?>&link=<?php echo 'http://'.$redirect_url;?>&redirect_uri=<?php echo 'http://'.$redirect_url;?>&description=<?php urlencode(the_title()); ?>&picture=<?php echo $attachments->src( 'full' ); ?>" target="_blank">
                                                 <i class="fa inspiration-icons fa-facebook"></i>
                                                 </a>
                                                 </li>

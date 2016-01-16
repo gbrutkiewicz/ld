@@ -1141,7 +1141,7 @@ a:active {
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 66%;
+	width: 61%;
 	height: 100%;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
@@ -1158,7 +1158,7 @@ a:active {
 }
 
 .news-info > div {
-	padding: 13% 9%;
+	padding: 13% 0%;
 	text-align: left;
 }
 
@@ -2566,4 +2566,12 @@ body {
 .inspiration-date{
     margin-top: -18px;
     margin-bottom: 15px;
+    font-style: italic;
+}
+
+.inspiration-texte{
+    margin-top: -18px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    line-height:18px;
 }
