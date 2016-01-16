@@ -20,6 +20,8 @@
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
+define('WP_CACHE', true); //Added by WP-Cache Manager
+define( 'WPCACHEHOME', 'C:\Users\gbrutkiewicz\Desktop\PROJETS\GESTION\site-laurent\wp-content\plugins\wp-super-cache/' ); //Added by WP-Cache Manager
 define('DB_NAME', 'laurentdjcldaidb');
 
 /** Utilisateur de la base de données MySQL. */
